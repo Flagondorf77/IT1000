@@ -6,3 +6,7 @@ My name is Brandi Whitmore and I am a freshman at the University of Missouri.
 If you are wanting to more about my background make sure you check out my [background](Background.md). 
 ## Fun Facts About Me
 There are quite a few things that a person doesn't know about me when first seeing me. Some interesting facts about me are that I have been in show choir for four years and ended up being my show choir's president my Senior year as well as their dance captain. 
+## My family
+![Family](https://d2g8igdw686xgo.cloudfront.net/37656680_15522470615802_r.jpeg)
+  
+Pictured above is my family. I am the youngest sibling as I have an older brother. My family has been through some tough issues in the past year that we are still recovering from but the key word there is _recovering_. My mom was born deaf and in the last few years her hearing has gotten worse to the point where last year the doctors deemed it necessary for her to have a cochlear implant. During the midst of all of this my older brother was diagnosed with cancer. After starting chemo during my senior year he ended up being allergic to the chemo he was needing and went into cardiac rest from it. 
