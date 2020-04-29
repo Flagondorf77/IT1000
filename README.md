@@ -7,7 +7,7 @@ If you are wanting to more about my background make sure you check out my [backg
 ## Fun Facts About Me
 There are quite a few things that a person doesn't know about me when first seeing me. Some interesting facts about me are that I have been in show choir for four years and ended up being my show choir's president my Senior year as well as their dance captain.  
   
-![showchoir](showchoir.png)
+![showchoir](Showchoir.png)
 ## My family
 ![Family](https://d2g8igdw686xgo.cloudfront.net/37656680_15522470615802_r.jpeg)
   
