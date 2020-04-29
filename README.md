@@ -15,7 +15,5 @@ Pictured above is my family. I am the youngest sibling as I have an older brothe
 ## Things I participated in during High School
 [List View](extracorriculars.md)
 # That's all
-  ```python
-  s = ("Have a great day")
-  print("You got this. ", s)
-  '''
+    s = ("Have a great day")
+    print("You got this. ", s)
