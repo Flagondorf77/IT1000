@@ -1,5 +1,5 @@
 # About Me
-My name is Brandi Whitmore and I am a freshman at the University of Missouri.'\n'
+My name is Brandi Whitmore and I am a freshman at the University of Missouri.  
 ![ME](https://media-exp1.licdn.com/dms/image/C4E03AQFI4ajFJuXpGw/profile-displayphoto-shrink_200_200/0?e=1593648000&v=beta&t=QAsvzn5-SJbKTYBdvlOPOJ4SFXQPqW4l1KWf2pBT27A)
 ## Background
 If you are wanting to more about my background make sure you check out my [background](Background.md). 
